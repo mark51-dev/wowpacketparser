@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(7,17): error C2485: 'naked': unrecognized extended attribute
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(26,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(26,11): error C2065: 'jmp': undeclared identifier
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(27,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(64,41): warning C4309: '=': truncation of constant value
+C:\Users\qwerty\source\repos\Dll1\Dll1\dllmain.cpp(70,24): warning C4244: 'argument': conversion from 'const intptr_t' to 'int', possible loss of data
